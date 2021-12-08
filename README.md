@@ -2,7 +2,7 @@
 
 Desde la pagina [http://www.fubb.org.uy/competitions/?WHurl=%2Fcompetition%2F30436%2Fmatch%2F2009972%2Fplaybyplay%3F](http://www.fubb.org.uy/competitions/?WHurl=%2Fcompetition%2F30436%2Fmatch%2F2009972%2Fplaybyplay%3F) 
 extraemos la información de los Juegos.
- Hidrometeorológicas. 
+
 
 Gráficamente:
 
