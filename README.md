@@ -9,6 +9,7 @@ Gráficamente:
 ![Match](assets/img/captura.png "Juego.")
 
 Tutorial en Youtube:
+
 [![Tutorial Youtube https://youtu.be/OfH1uuvTez8 ](https://img.youtube.com/vi/OfH1uuvTez8/0.jpg)](https://www.youtube.com/watch?v=OfH1uuvTez8)
 
 
