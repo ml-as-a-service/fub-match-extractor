@@ -48,15 +48,13 @@ def download(url):
 def getMatchAction(file_path):
     content = file_get_contents(file_path)
     json_content = json.loads(content)
-    # print(json_content['html'])
+    
     soup = BeautifulSoup(json_content['html'], "html.parser")
-    # print(soup)
     
 
     # Buscamos todos los elementos html del tipo LI con attributo data-gmapping
-    # elements = soup.findAll("div", {"class" : "pbpa"})
     playbyplay = soup.findAll("div", {"id" : "playbyplay"})
-    # print(elements)
+
     items = [['score','time','action']]
     for pbp in playbyplay :
         # convertimos el json en lista

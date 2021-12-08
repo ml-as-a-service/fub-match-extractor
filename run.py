@@ -11,7 +11,7 @@ file_path = fx.download(url)
 # -----------------------------------------------------------------------------
 # Obtenemos las actions en una lista utilizando BeautifulSoup
 matchAction = fx.getMatchAction(file_path)
-# print(matchAction)
+
 # -----------------------------------------------------------------------------
 # Exportamos las actions a CSV utilizando pandas
 file_name_csv = fx.dir_data+"MatchAction.csv"

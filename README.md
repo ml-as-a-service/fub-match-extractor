@@ -9,7 +9,7 @@ Gráficamente:
 ![Match](assets/img/captura.png "Juego.")
 
 Tutorial en Youtube:
-[![Tutorial Youtube https://youtu.be/xxx ](https://img.youtube.com/vi/xxx/0.jpg)](https://www.youtube.com/watch?v=xxx)
+[![Tutorial Youtube https://youtu.be/OfH1uuvTez8 ](https://img.youtube.com/vi/OfH1uuvTez8/0.jpg)](https://www.youtube.com/watch?v=OfH1uuvTez8)
 
 
 
@@ -29,6 +29,6 @@ python run.py
 Se procederá a:
  - crear la estructura de directorios
  - descargar el archivo fuente en la carpeta tmp/download
- - exportar la información de los juevos que se encuentran en el archivo a csv, el mismo se guardara en la carpeta data/
+ - exportar la información de los juegos que se encuentran en el archivo a csv, el mismo se guardara en la carpeta data/
 
 
